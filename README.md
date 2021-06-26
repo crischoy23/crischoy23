@@ -22,6 +22,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <img src="https://user-images.githubusercontent.com/80525007/123513505-2bb0bd00-d6c0-11eb-853f-cb09284180de.png" height="50px" width="50px">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
