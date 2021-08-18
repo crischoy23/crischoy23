@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://media-exp3.licdn.com/dms/image/C4D16AQHF9C28WZouSA/profile-displaybackgroundimage-shrink_200_800/0/1622821522508?e=1628121600&v=beta&t=eskk7b5sjKcHqL_YnbZ7FQ4lCEySe-mXNRsVBX_4JQE)
+<!-- ![I am GitHub Readme Generator's creator](https://media-exp3.licdn.com/dms/image/C4D16AQHF9C28WZouSA/profile-displaybackgroundimage-shrink_200_800/0/1622821522508?e=1628121600&v=beta&t=eskk7b5sjKcHqL_YnbZ7FQ4lCEySe-mXNRsVBX_4JQE) -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cris</h1>
 <h3 align="center">I'm a passionate Web Developer Trainee.</h3>
